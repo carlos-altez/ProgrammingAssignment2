@@ -1,6 +1,6 @@
 ## This function captures a Matrix into the vector makeCacheMatrix, and then we use cacheSolve function to give the inverse of the matrix
 
-## makeCacheMatrix, is used to create a function which has 4 other functiones in it, basically to set up a matrix
+## makeCacheMatrix, is used to create a function which has 4 other functiones in it, basically to set up a matrix!!!
 
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
